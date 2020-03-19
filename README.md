@@ -1,2 +1,6 @@
 # 0_Machine-Learning
-Machine Learning (2019) - Stanford, Andrew Ng
+
+Machine Learning
+Stanford University
+Instructor: Andrew Ng
+(https://www.coursera.org/learn/machine-learning)
